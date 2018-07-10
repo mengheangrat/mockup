@@ -1,0 +1,42 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "promotion": [
+                {
+                    "id": 1,
+                    "decription": "Buy 15 Cases Get 2 Cases  Free",
+                    "name": "Heineken (bottle)",
+                    "price": "90",
+                    "type": "set",
+                    "image_url": "https://shopmyar.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/b/abc-beer-can-shopmyar.png"
+                },
+                {
+                    "id": 2,
+                    "decription": "Buy 14 Cases Get 2 Cases  Free",
+                    "name": "ABC (bottle)",
+                    "price": "100",
+                    "type": "set",
+                    "image_url": "https://img.alicdn.com/imgextra/i1/725677994/TB2l7PqolHH8KJjy0FbXXcqlpXa_!!725677994.jpg"
+
+                }
+            ],
+            "drink": [
+                {
+                    "id": 1,
+                    "name": "Heineken Bottle",
+                    "price": "24",
+                    "type": "set",
+                    "image_url": "https://img.alicdn.com/imgextra/i1/725677994/TB2l7PqolHH8KJjy0FbXXcqlpXa_!!725677994.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "ABC Bottle",
+                    "price": "25",
+                    "type": "set",
+                    "image_url": "https://shopmyar.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/b/abc-beer-can-shopmyar.png"
+                }
+            ]
+        }
+    ]
+}
